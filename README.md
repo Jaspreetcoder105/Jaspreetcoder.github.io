@@ -1,5 +1,4 @@
 # **Jaspreetcoder.github.io**
-
 ## 12TH RESULT
 
 |subj ect | gained marks |  out of 100|
