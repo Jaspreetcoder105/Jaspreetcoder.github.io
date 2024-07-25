@@ -8,3 +8,5 @@
 | chemistry | 97| 100 |
  | physics | 81 | 100|
  | MATHS | 86 | 100 |
+
+# GNDEC INDUCTION PROGRME
