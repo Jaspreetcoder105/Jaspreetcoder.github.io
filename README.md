@@ -2,6 +2,7 @@
 ## 12TH RESULT
 
 |subject | gained marks |  out of 100|
+ | ---- | ---- | ---- |
 | englsih| 83| 100|
 |punjabi| 95 | 100 |
 | chemistry | 97| 100 |
