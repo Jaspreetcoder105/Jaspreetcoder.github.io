@@ -29,6 +29,8 @@ on this day we visit our department of computer science engineering with our dep
 # date-22/7/24
 
 | s.no | speaker| description |
+|----|----|----|
+
 | 01 | Dr. Sb singh | this session was all about my self and i learn many new things . Sir's personal experience of exploring their selves is an inspiration for us |
 | 02 | Dr. Pushpinder singh | sir belongs to a family where every member is doctor by profession.sir have taught us about**how to learn** .|
 | 03| causmic club | In this session our seniors told us about the cosmic club and it's importance with studies|
